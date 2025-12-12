@@ -6,7 +6,7 @@ export default function Dashboard() {
     <div className="min-h-screen bg-gray-50">
       <Navbar />
 
-      <AreaUtil titulo="Dashboard">
+      <AreaUtil titulo="">
         <div className="max-w-4xl mx-auto py-10 space-y-8">
 
           {/* Saudação */}
